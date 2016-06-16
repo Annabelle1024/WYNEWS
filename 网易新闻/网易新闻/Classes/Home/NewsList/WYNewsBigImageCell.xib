@@ -41,7 +41,7 @@
                         <nil key="highlightedColor"/>
                     </label>
                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lRC-Nj-cvz">
-                        <rect key="frame" x="277" y="169" width="35" height="17"/>
+                        <rect key="frame" x="278" y="169" width="34" height="17"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D6P-Uo-ku9">
                                 <rect key="frame" x="2" y="1" width="31" height="14.5"/>
@@ -52,7 +52,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.88906249999999998" green="0.88906249999999998" blue="0.88906249999999998" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstAttribute="trailing" secondItem="D6P-Uo-ku9" secondAttribute="trailing" constant="2" id="E7v-qw-JZ1"/>
+                            <constraint firstAttribute="trailing" secondItem="D6P-Uo-ku9" secondAttribute="trailing" constant="1" id="E7v-qw-JZ1"/>
                             <constraint firstAttribute="bottom" secondItem="D6P-Uo-ku9" secondAttribute="bottom" constant="1" id="Nd5-QG-JgA"/>
                             <constraint firstItem="D6P-Uo-ku9" firstAttribute="top" secondItem="lRC-Nj-cvz" secondAttribute="top" constant="1" id="QxA-be-Z1D"/>
                             <constraint firstItem="D6P-Uo-ku9" firstAttribute="leading" secondItem="lRC-Nj-cvz" secondAttribute="leading" constant="2" id="o4Q-Xm-Jcs"/>

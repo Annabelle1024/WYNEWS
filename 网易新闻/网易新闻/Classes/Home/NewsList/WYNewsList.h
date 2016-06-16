@@ -22,10 +22,16 @@
 @property (nonatomic, copy) NSString *docid;
 /// 多图配图
 @property (nonatomic, strong) NSArray *imgextra;
+
 /**
  * 是否大图标记
  */
 @property (nonatomic, assign) BOOL imgType;
+
+/**
+ * 是否是顶部 Cell
+ */
+@property (nonatomic, assign) BOOL hasHead;
 
 
 
